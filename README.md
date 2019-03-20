@@ -94,21 +94,15 @@ When doing teh inquiry process, I can see that the presence of *explicit* sign u
 
 ## Part B: Assumptions
 ### 1. Hardware
-```
-Please write what are the assumptions for the hardware on which your new design will be implemented, 
-such as: screen size, screen resolution, on touch screen, via physical buttons, 
-using accelerometer/gyroscope, using mouse, keyboard, etc. 
-Please be specific with the required hardware and any other assumptions, 
-like whether the screen is color or black and white, etch.
-```
-### 2. Users
-```
-Please write down the assumptions about your users. 
-What level of experience do you expect? 
-Who familiar with computers/gadget will they be? 
-What ages? 
-Are there any other factors about the users that will influence your design?
-```
+- Screen size : min. 14 inch
+- Screen resolution : min. 1366 x 768 pixel with 16:9 aspect ratio
+- Screen type : color
+- Input device : touchscreen, mouse, keyboard
 
+### 2. Users
+- Occupation : student or teacher / lecturer
+- Familiar with dynamic site
+- Familiar with e-learning system
+- In the range of 16 - 60 years old
 ## Part C: Prototypes
 We will work on this part together during the class on **March 22nd, 2019**, 10:00 AM - 12.30 PM. Therefore, prior to the class please complete all the above parts (A & B) beforehand accordingly.
