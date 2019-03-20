@@ -34,20 +34,20 @@ You need **not** sketch the whole interface. It is not necessary for the sketche
 #### 1.1 Explicit Sign Up Button
 **Original**
 ![navbar-ori](img/navbar_ori.jpg)
-**Solution 1**
+<br>**Solution 1**
 ![navbar-1](img/navbar_1.jpg)
-**Solution 2**
+<br>**Solution 2**
 ![navbar-2](img/navbar_2.jpg)
-**Solution 3**
+<br>**Solution 3**
 ![navbar-3](img/navbar_3.jpg)
 #### 1.2 Sign Up Form
 **Original**
 ![signup-ori](img/signup_ori.jpg)
-**Solution 1**
+<br>**Solution 1**
 ![signup-1](img/signup_1.jpg)
-**Solution 2**
+<br>**Solution 2**
 ![signup-2](img/signup_2.jpg)
-**Solution 3**
+<br>**Solution 3**
 ![signup-3](img/signup_3.jpg)
 
 ### 2. Version Differences
