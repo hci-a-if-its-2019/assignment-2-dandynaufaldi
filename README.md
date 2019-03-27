@@ -102,4 +102,5 @@ When doing teh inquiry process, I can see that the presence of *explicit* sign u
 - In the range of 16 - 60 years old
 ## Part C: Prototypes
 [Freehand Drawing](https://projects.invisionapp.com/freehand/document/WL2R6YvuC)
-
+![freehand](img/freehand.png)
+[Prototype](https://invis.io/QZR8KKTDXWE#/354741778_Guest_Mode)
