@@ -101,4 +101,5 @@ When doing teh inquiry process, I can see that the presence of *explicit* sign u
 - Familiar with e-learning system
 - In the range of 16 - 60 years old
 ## Part C: Prototypes
-We will work on this part together during the class on **March 22nd, 2019**, 10:00 AM - 12.30 PM. Therefore, prior to the class please complete all the above parts (A & B) beforehand accordingly.
+[Freehand Drawing](https://projects.invisionapp.com/freehand/document/WL2R6YvuC)
+
