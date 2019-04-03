@@ -104,3 +104,4 @@ When doing teh inquiry process, I can see that the presence of *explicit* sign u
 [Freehand Drawing](https://projects.invisionapp.com/freehand/document/WL2R6YvuC)
 ![freehand](img/freehand.png)
 [Prototype](https://invis.io/QZR8KKTDXWE#/354741778_Guest_Mode)
+[Hi-Fi Prototype](https://invis.io/S5RCW0NK7XA#/356060308_Homepage)
